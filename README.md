@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=6366F1&style=flat-square&label=visitas+al+perfil)
+![Visitas](https://komarev.com/ghpvc/?username=DaniloHerrera28&color=6366F1&style=flat-square&label=visitas+al+perfil)
 
 </div>
 
@@ -82,9 +82,9 @@
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs"/>
+<a href="https://github.com/DaniloHerrera28">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloHerrera28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloHerrera28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs"/>
 </a>
 
 </div>
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniloHerrera28&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=DaniloHerrera28&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&area=true&color=6366F1&line=8B5CF6&point=F472B6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniloHerrera28&theme=react-dark&hide_border=true&area=true&color=6366F1&line=8B5CF6&point=F472B6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
