@@ -1,183 +1,105 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  BANNER DE ENCABEZADO — capsule-render                        -->
-<!--  Cambia: color, text, fontSize, height, animation             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Tu+Proyecto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Una+línea+que+describe+lo+que+hace&descAlignY=58&descSize=18&descColor=ffffff)
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  TYPING SVG — texto animado que se escribe solo               -->
-<!--  Cambia: color, font, size, pause, lines (separa con ;)       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER BANNER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&section=header&text=Piko%20🦜&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aprende+idiomas+sin+internet%2C+desde+cualquier+aula&descAlignY=58&descSize=18&descColor=ffffff)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Founder+of+Xinocore+🚀;Building+tools+for+Nicaragua+💜;Systems+Engineering+Student+⚡;One+more+line+you+can+edit)](https://git.io/typing-svg)
-
-</div>
-
-
----
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  CONTADOR DE VISITAS — komarev.com                            -->
-<!--  Cambia: username, color, style, label                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Visitas](https://komarev.com/ghpvc/?username=DaniloHerrera28&color=6366F1&style=flat-square&label=visitas+al+perfil)
-
-</div>
-
-
----
-
-
-## 🛠️ Stack tecnológico
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SKILL ICONS — skillicons.dev                                  -->
-<!--  Cambia: i= con los íconos que necesites, theme=dark/light    -->
-<!--  Lista completa: https://skillicons.dev                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Skill Icons](https://skillicons.dev/icons?i=nodejs,electron,js,html,css,figma,vscode,git,github,sqlite&theme=dark)](https://skillicons.dev)
-
-</div>
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  BADGES DE TECNOLOGÍA — shields.io / for-the-badge            -->
-<!--  Cambia el nombre, color hex y logo (Simple Icons)            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-
----
-
-
-## 📊 GitHub Stats
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  GITHUB STATS — anuraghazra/github-readme-stats               -->
-<!--  Cambia: username, theme (tokyonight / radical / dracula...)  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/DaniloHerrera28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloHerrera28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloHerrera28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs"/>
-</a>
-
-</div>
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  STREAK DE CONTRIBUCIONES — streak-stats.demolab.com          -->
-<!--  Cambia: user, theme, hide_border                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaniloHerrera28&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-</div>
-
-
----
-
-
-## 🏆 Trofeos
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  GITHUB TROPHIES — ryo-ma/github-profile-trophy               -->
-<!--  Cambia: username, theme, column (cantidad de trofeos/fila)   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=DaniloHerrera28&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
----
-
-
-## 📈 Actividad
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  GRÁFICA DE ACTIVIDAD — ashutosh00710/github-readme-activity-graph -->
-<!--  Cambia: username, theme, area=true para sombra bajo la curva  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniloHerrera28&theme=react-dark&hide_border=true&area=true&color=6366F1&line=8B5CF6&point=F472B6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
----
-
-
-## Estado del proyecto
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  BADGES DE ESTADO — shields.io / flat-square                  -->
-<!--  Cambia el texto y el color en la URL                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-![Estado](https://img.shields.io/badge/estado-activo-brightgreen?style=flat-square)
-![Versión](https://img.shields.io/badge/versión-1.0.0-6366F1?style=flat-square)
+<!-- BADGES DE ESTADO DEL PROYECTO -->
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-22c55e?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Hackathon%20Nicaragua-2026%20🏆-3b82f6?style=flat-square)
+![Equipo](https://img.shields.io/badge/equipo-MugiWare-6366F1?style=flat-square)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-yellow?style=flat-square)
-![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20Linux-blue?style=flat-square)
-![Hecho en](https://img.shields.io/badge/hecho%20en-Nicaragua%20🇳🇮-blue?style=flat-square)
 
-<!-- Badge de marca personalizado con color Xinocore -->
-![Xinocore](https://img.shields.io/badge/Powered%20by-Xinocore-6366F1?style=for-the-badge&logoColor=white)
-
-
----
-
-
-## 💬 Frase del día
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  QUOTE ALEATORIO — quotes-github-readme.vercel.app            -->
-<!--  Cambia: type=horizontal/vertical, theme                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- BADGES DE PLATAFORMA Y ACCESO -->
+![Plataforma](https://img.shields.io/badge/plataforma-Android%20%7C%20iOS-3b82f6?style=flat-square&logo=android&logoColor=white)
+![Offline](https://img.shields.io/badge/funciona-sin%20internet%20📶-22c55e?style=flat-square)
+![Idiomas](https://img.shields.io/badge/idiomas-Miskito%20%7C%20Mayangna%20%7C%20Rama%20%7C%20Garífuna-f59e0b?style=flat-square)
 
 </div>
 
+---
+
+## ¿Qué es Piko?
+
+Piko es una app de aprendizaje de idiomas diseñada para estudiantes rurales de Nicaragua que transicionan de la escuela multigrado al secundario. Funciona completamente **sin conexión a internet**: el teléfono del docente actúa como servidor local y punto de acceso WiFi para toda el aula.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  BANNER DE FOOTER — capsule-render                            -->
-<!--  Mismos parámetros que el header, pero section=footer         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## ✨ Características
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer)
+![Offline-first](https://img.shields.io/badge/Offline--first-el%20profesor%20es%20el%20servidor-22c55e?style=for-the-badge)
+![Lenguas indígenas](https://img.shields.io/badge/Lenguas%20indígenas-Miskito%20·%20Mayangna%20·%20Rama%20·%20Garífuna-f59e0b?style=for-the-badge)
+![Gamificado](https://img.shields.io/badge/Gamificado-rachas%20·%20XP%20·%20logros-3b82f6?style=for-the-badge)
+![Robot](https://img.shields.io/badge/Modo%20robot-para%20aulas%20sin%20dispositivos-6366F1?style=for-the-badge)
+![MINED](https://img.shields.io/badge/Alianza-MINED%20Nicaragua-ef4444?style=for-the-badge)
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![WiFi Direct](https://img.shields.io/badge/WiFi%20Hotspot-arquitectura%20local-22c55e?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📦 Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/DaniloHerrera28/piko-aprende-lenguajes.git
+cd piko-aprende-lenguajes
+
+# Instalar dependencias
+npm install
+
+# Iniciar servidor del docente
+npm run server
+
+# Iniciar app (requiere Android Studio o dispositivo físico)
+npm run android
+```
+
+---
+
+## 🗂️ Estructura del proyecto
+
+```
+piko/
+├── app/              # Cliente React Native (estudiante)
+├── server/           # Servidor local Node.js (docente)
+├── robot/            # Módulo del robot de aula
+├── content/          # Lecciones y audio por idioma
+│   ├── miskito/
+│   ├── mayangna/
+│   ├── rama/
+│   └── garifuna/
+└── docs/             # Documentación técnica
+```
+
+---
+
+## 🤝 Equipo
+
+<div align="center">
+
+![MugiWare](https://img.shields.io/badge/MugiWare-Jinotega%2C%20Nicaragua%20🇳🇮-6366F1?style=for-the-badge)
+![Powered by](https://img.shields.io/badge/Powered%20by-Xinocore-6366F1?style=for-the-badge)
+
+</div>
+
+---
+
+## 📄 Licencia
+
+MIT © 2026 MugiWare — Jinotega, Nicaragua
+
+
+<!-- FOOTER BANNER -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer)
